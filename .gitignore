@@ -210,4 +210,4 @@ dmypy.json
 .idea
 
 # static
-/static
+static/
